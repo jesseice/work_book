@@ -1,0 +1,15 @@
+{
+  "name": "md_pr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "吴英东 <jesseice1999@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.66"
+  },
+  "dependencies": {}
+}

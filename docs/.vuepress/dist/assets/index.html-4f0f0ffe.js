@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4673b61c","path":"/guide/one/one_a/","title":"第4点","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"第4点","description":"aaa11111_a"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/one/one_a/README.md"}');export{e as data};

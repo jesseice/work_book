@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5d4ffd16","path":"/guide/one/","title":"第3点","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"第3点","description":"页面的描述"},"headers":[],"git":{"updatedTime":1690883478000,"contributors":[{"name":"吴英东","email":"jesseice1999@163.com","commits":1}]},"filePathRelative":"guide/one/README.md"}');export{e as data};
