@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "吴英东 <jesseice1999@163.com>",
   "license": "MIT",
+  "engines": {
+    "node": "19.x"
+  },
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
