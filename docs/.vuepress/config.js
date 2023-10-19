@@ -24,6 +24,11 @@ export default defineUserConfig({
           // children: [{ text: "1_a", link: "/guide/one/one_a" }],
         },
         { text: "代码相关问题", link: "/record/code" },
+        {
+          text: "JavaScript",
+          link: "/record/js",
+          children: [{ text: "基础问题", link: "/record/js/basic" }],
+        },
       ],
     },
   }),
